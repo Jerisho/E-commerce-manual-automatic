@@ -145,11 +145,11 @@ function nextProd(){
         optionNext = validate("Si desea seguir comprando ingrese 'PAR', si desea finalizar la compra ingrese 'FIN'")
     }while(!((optionNext.toLowerCase() == "par") || (optionNext.toLowerCase() == "fin")))
     
-    if (optionNext == "par"){
+    if (optionNext.toLowerCase() == "par"){
         par()
     }
     
-    else if(optionNext == "fin"){
+    else if(optionNext.toLowerCase() == "fin"){
         modPay()
     }
 }
@@ -203,6 +203,7 @@ function par(){
 
 //Funcion principal, donde se consulta donde va a ingresar el usuario para su compra
 function main(){
+    console.log(allProducts);
 
     optionMod = prompt(`Por favor ingrese "COT" si desea el cotizador automatico, de o contrario ingrese "PAR"`);
 
