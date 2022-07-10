@@ -70,7 +70,7 @@ function validate(msg){
 function payCredit(){
     let pricePar = priceProduct();
     do{
-        couts = validate(`Ingrese como desea abonar el total: \n 1- 1 Cupta - Mismo precio que en efectivo $${pricePar} \n 2- 3 Cuotas de $${(Math.round(pricePar + (pricePar * 0.05)) / 3)} - 5% de recargo \n 3- 6 Cuotas de $${Math.round((pricePar + (pricePar * 0.15)) / 6)} con el 15% de recargo \n 4- 12 cuotas de $${(Math.round((pricePar + (pricePar * 0.25)) / 12))} con el 25% de recargo` )
+        couts = validate(`Ingrese como desea abonar el total: \n 1- 1 Cuota de $${pricePar} - Mismo precio que en efectivo \n 2- 3 Cuotas de $${(Math.round(pricePar + (pricePar * 0.05)) / 3)} - 5% de recargo \n 3- 6 Cuotas de $${Math.round((pricePar + (pricePar * 0.15)) / 6)} con el 15% de recargo \n 4- 12 cuotas de $${(Math.round((pricePar + (pricePar * 0.25)) / 12))} con el 25% de recargo` )
     }while(!((couts == "1") || (couts == "2") || (couts == "3") || (couts == "4")));
 
     switch(couts){
@@ -79,15 +79,15 @@ function payCredit(){
             alert("Su pago fue efectuado con exito!")
             break
         case "2":
-            alert(`El total a abonar es de $${pricePar} en 3 cuotas de $${Math.round(pricePar + (pricePar * 0.05))}`)
+            alert(`El total a abonar es de $${Math.round(pricePar + (pricePar * 0.05))} en 3 cuotas de $${Math.round((pricePar + (pricePar * 0.05)) / 3)}`)
             alert("Su pago fue efectuado con exito!")
             break
         case "3":
-            alert(`El total a abonar es de $${pricePar} en 6 cuotas de $${Math.round(pricePar + (pricePar * 0.15))}`)
+            alert(`El total a abonar es de $${Math.round(pricePar + (pricePar * 0.15))} en 6 cuotas de $${Math.round((pricePar + (pricePar * 0.15)) / 6)}`)
             alert("Su pago fue efectuado con exito!")
             break
         case "4":
-            alert(`El total a abonar es de $${pricePar} en 12 cuotas de $${Math.round(pricePar + (pricePar * 0.25))}`)
+            alert(`El total a abonar es de $${Math.round(pricePar + (pricePar * 0.25))} en 12 cuotas de $${Math.round((pricePar + (pricePar * 0.25)) / 12)}`)
             alert("Su pago fue efectuado con exito!")
             break
         default:
@@ -212,7 +212,7 @@ function main(){
     }
 
     if (optionMod.toLowerCase() == "cot"){
-        alert(`Usted esta eligiendo el cotizador aumatico`);
+        alert(`Usted esta eligiendo el cotizador automatico`);
         cot()
     } 
     
