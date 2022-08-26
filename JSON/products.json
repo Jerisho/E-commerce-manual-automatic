@@ -1,0 +1,554 @@
+[
+    {
+        "id": 1, 
+        "name": "Procesador Intel Core i5-10400F", 
+        "price": 24751, 
+        "type":  "prossesor",
+        "title": "Procesadores",
+        "img": "https://www.venex.com.ar/products_images/1617202625_1019-producto-i5i5-system-linq-enumerabletakeiteratord-251system-char.png" 
+    },
+
+    {
+        "id": 2, 
+        "name": "Procesador Amd Ryzen 5 3600 4.2ghz Turbo Am4 Wraith Stealth", 
+        "price": 32499, 
+        "type":  "prossesor",
+        "img": "https://wiztech.com.ar/assets/images/products/procesador/amd_ryzen_5_2400g_a.png"
+    },
+
+    {
+        "id": 3, 
+        "name": "Procesador gamer AMD Ryzen 5 5600X 100-100000065BOX", 
+        "price": 49500, 
+        "type":  "prossesor",
+        "img": "https://wiztech.com.ar/assets/images/products/procesador/amd_ryzen_5_2400g_a.png"
+    },
+    
+    {
+        "id": 4, 
+        "name": "Procesador AMD Ryzen 3 4100 + Wraith Stealth Cooler AM4", 
+        "price": 22150, 
+        "type":  "prossesor",
+        "img": "https://en.wikichip.org/w/images/2/27/amd_ryzen_3_logo.png"
+    },
+
+    {
+        "id": 5, 
+        "name": "Procesador AMD Ryzen 5 4500 + Wraith Stealth Cooler AM4", 
+        "price" :28050, 
+        "type":  "prossesor",
+        "img": "https://wiztech.com.ar/assets/images/products/procesador/amd_ryzen_5_2400g_a.png"
+    },
+
+    {
+        "id": 6, 
+        "name": "Procesador AMD Ryzen 5 4600G 3.7GHz + Wraith Stealth Cooler AM4", 
+        "price": 34150, 
+        "type":  "prossesor",
+        "img": "https://wiztech.com.ar/assets/images/products/procesador/amd_ryzen_5_2400g_a.png"
+    },
+
+    {
+        "id": 7, 
+        "name": "Procesador AMD Ryzen 9 5950X 4.9GHz Turbo AM4 - No incluye Cooler", 
+        "price": 153150, 
+        "type":  "prossesor",
+        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3EWOwIQSsufBOFjkmAYLwEISU-pWOeRpqQA&usqp=CAU"
+    },
+
+    {
+        "id": 8, 
+        "name": "Procesador AMD Ryzen 7 5700X 4.6GHz Turbo AM4 - No incluye Cooler", 
+        "price": 65600, 
+        "type":  "prossesor",
+        "img": "https://wiztech.com.ar/assets/images/products/procesador/amd_ryzen_7_5700x_a.png"
+    },
+
+    {
+        "id": 9, 
+        "name": "Procesador Intel Celeron G5925 3.6GHz Socket 1200", 
+        "price":  9050, 
+        "type":  "prossesor",
+        "img": "https://img.dynos.es/550/1b000/1b000/0096G5117710080X0B-0.jpg"
+    },
+
+    {
+        "id": 10,
+        "name": "Procesador Intel Core i3 10100F 4.3GHz Turbo 1200 Comet Lake", 
+        "price":  14600, 
+        "type":  "prossesor",
+        "img": "https://imagenes.compufull.com/thumb/im_0_0_0_700x700_15151_1/Intel_Core_i310100F_processorFIXCE202112240315353.png"
+    },
+
+    {
+        "id": 11,
+        "name": "Procesador Intel Core i5 11400 S1200 11th Gen Rocket Lake", 
+        "price":  39750, 
+        "type":  "prossesor",
+        "img": "https://zavapi.com/wp-content/uploads/2018/06/Core-i5-11va-Gen.png"
+    },
+
+    {
+        "id": 12,
+        "name": "Procesador Intel Core i5 11600KF S1200 11th Gen Rocket Lake", 
+        "price":  45750, 
+        "type":  "prossesor",
+        "img": "https://zavapi.com/wp-content/uploads/2018/06/Core-i5-11va-Gen.png"
+    },
+
+    {
+        "id": 13,
+        "name": "Procesador Intel Core i7 10700 4.8GHz Turbo Socket 1200 Comet Lake", 
+        "price":  62750, 
+        "type":  "prossesor",
+        "img": "https://www.invidcomputers.com/thumb/000000000041416216265414162--1-_400x400.png"
+    },
+
+    {
+        "id": 14,
+        "name": "Procesador Intel Core i9 12900KF 5.2GHz Turbo Socket 1700", 
+        "price":  130900, 
+        "type":  "prossesor",
+        "img": "https://digitalife-public.sfo2.digitaloceanspaces.com/products/39890/6182a98b67a42.webp"
+    },
+
+    {
+        "id": 15,
+        "name": "Motherboard Asus Prime B460m-5", 
+        "price":  13990, 
+        "type":  "motherboard",
+        "title": "Placas Madre"
+    },
+
+    {
+        "id": 16,
+        "name": "Motherboard Gigabyte AB350M V2.0 DS3H AM4", 
+        "price":  19800, 
+        "type":  "motherboard"
+    },
+    
+    {
+        "id": 17,  
+        "name": "Motherboard Asrock H310cm-hdv Intel 1151 Hdmi 8va Y 9na Gen Pcreg", 
+        "price":  9999, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 18,
+        "name": "Mother Biostar A320MH AM4 D4", 
+        "price":  7850, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 19,
+        "name": "Mother ASUS PRO A320M-R WI-FI/CSM AM4 OEM", 
+        "price":  12600, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 20,
+        "name": "Mother ASUS PRIME A320M-K Ryzen 2da Gen Ready M-ATX", 
+        "price":  12900, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 21,
+        "name": "Mother Gigabyte GA-A320M-H AM4", 
+        "price":  14350,
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 22,
+        "name": "Mother Biostar B550MH AM4 D4", 
+        "price":  17500, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 23,
+        "name": "Mother ASUS PRIME A520M-K AM4",
+        "price":  19100, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 24,
+        "name": "Mother ASUS ROG STRIX B550-F GAMING WI-FI AM4 PCI-E 4.0", 
+        "price":  50600, 
+        "type":  "motherboard"
+    },
+
+    {
+        "id": 25,
+        "name": "Memoria RAM Fury Beast DDR4 gamer color negro 8GB 1 Kingston KF426C16BB/8", 
+        "price":  5864, 
+        "type":  "RAM",
+        "title": "RAMS",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg" 
+    },
+
+    {
+        "id": 26,
+        "name": "Memoria RAM Vengeance LPX gamer color negro 16GB 2 Corsair CMK16GX4M2B3200C16", 
+        "price":  15366, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 27,
+        "name": "Memoria RAM Fury Beast DDR4 RGB gamer color negro 16GB 1 Kingston KF432C16BBA", 
+        "price":  14999, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 28,
+        "name": "Memoria GeiL DDR4 16GB 3000MHz Orion RGB Red", 
+        "price":  12950, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 29,
+        "name": "Memoria Corsair DDR3 8GB 1600Mhz Vengeance LP", 
+        "price":  8750, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 30,
+        "name": "Memoria GeiL DDR4 16GB (2x8GB) 3200MHz EVO X II RGB Black", 
+        "price":  14850, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 31,
+        "name": "Memoria GeiL DDR4 16GB 3000MHz EVO POTENZA RED", 
+        "price":  12600, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 32,
+        "name": "Memoria Patriot Viper DDR4 8GB 3200MHz Steel RGB", 
+        "price":  8050, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 33,
+        "name": "Memoria Team DDR4 16GB 3600MHz T-Force Delta RGB Black CL18", 
+        "price":  15150, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 34,
+        "name": "Memoria Team DDR4 8GB 3600MHz T-Force Delta RGB Black CL18", 
+        "price":  8350, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 35,
+        "name": "Memoria GeiL DDR4 16GB (2x8GB) 3200MHz Super Luce RGB TUF Edition", 
+        "price":  15400, 
+        "type":  "RAM",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 36,
+        "name": "Disco Rígido WD 1TB BLUE 64MB SATA 6.0GB/s", 
+        "price":  8450, 
+        "type":  "hardDisk",
+        "title": "Discos Duros - HDD",
+        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+    },
+
+    {
+        "id": 37,
+        "name": "Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s", 
+        "price":  9950, 
+        "type":  "hardDisk"
+    },
+
+    {
+        "id": 38,
+        "name": "Disco Rigido Seagate 2TB Skyhawk", 
+        "price":  14150, 
+        "type":  "hardDisk"
+    },
+
+    {
+        "id": 39,
+        "name": "Disco Rígido Toshiba 4TB N300 NAS 7200rpm 128MB", 
+        "price":  19700, 
+        "type":  "hardDisk"
+    },
+
+    {
+        "id": 40,
+        "name": "Disco Rígido WD 6TB Blue Sata III", 
+        "price":  54500, 
+        "type":  "hardDisk"
+    },
+
+    {
+        "id": 41,
+        "name": "Disco Solido SSD HIKVISION C100 120GB 460MB/s", 
+        "price":  3250, 
+        "type":  "ssdDisk",
+        "title": "Discos Solidos - SSD"
+    },
+
+    {
+        "id": 41,
+        "name": "Disco Sólido SSD Adata 120GB SU650SS 520MB/s", 
+        "price":  3650, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 42,
+        "name": "Disco Sólido SSD Gigabyte 120GB 500MB/s", 
+        "price":  3850 , 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 43,
+        "name": "Disco Solido SSD HIKVISION C100 240GB 550MB/s", 
+        "price":  5350, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 44,
+        "name": "Disco Solido SSD Team 240GB T-Force Vulcan Z 540MB/s", 
+        "price":  5600, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 45,
+        "name": "Disco Sólido SSD Gigabyte 240GB 500MB/s", 
+        "price":  5850, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 46,
+        "name": "Disco Sólido SSD WD 240GB GREEN 545MB/s", 
+        "price":  5950, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 47,
+        "name": "Disco Solido SSD M.2 WD 240GB Green SN350 2400MB/s NVMe PCI-Express x4", 
+        "price":  6300, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 48,
+        "name": "Disco Sólido SSD M.2 ADATA XPG SX6000 Pro 256GB 2100MB/s NVMe PCI-E x4", 
+        "price":  6350, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 49,
+        "name": "Disco Solido SSD Adata 480GB SU650 520MB/s", 
+        "price":  8950, 
+        "type": "ssdDisk"},
+
+    {
+        "id": 50,
+        "name": "Disco Sólido SSD Kingston 480GB A400 500MB/s2", 
+        "price":  9250 , 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 51,
+        "name": "Disco Solido SSD M.2 WD 480GB Green SN350 2400MB/s NVME PCI-Expres x4", 
+        "price":  10150 , 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 52,
+        "name": "Disco Sólido SSD Adata 960GB SU650 520MB/s", 
+        "price":  17350, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 53,
+        "name": "Disco Sólido SSD Kingston 960GB A400 500MB/s", 
+        "price":  17700, 
+        "type":  "ssdDisk"
+    },
+
+    {
+        "id": 54,
+        "name": "Placa De Vide MSI GeForce GT 710 1GB DDR3", 
+        "price":  11999, 
+        "type":  "graphicCardG",
+        "title": "Placas de Video - Geforce"
+    },
+
+    {
+        "id": 55,
+        "name": "Placa de Video MSI GeForce GTX 1660 SUPER 6GB GDDR6 Ventus XS OC", 
+        "price":  65200, 
+        "type":  "graphicCardG"
+    },
+
+    {
+        "id": 56,
+        "name": "Placa de Video Zotac GeForce GTX 1660 SUPER Twin Fan Black", 
+        "price":  68450, 
+        "type":  "graphicCardG"
+    },
+
+    {
+        "id": 57,
+        "name": "Placa de Video ASUS Geforce RTX 2060 DUAL EVO 12GB GDDR6 OC Edition", 
+        "price":  77760, 
+        "type":  "graphicCardG"
+    },
+
+    {
+        "id": 58,
+        "name": "Placa de Video Zotac GeForce RTX 2060 12GB GDDR6 Twin Fan", 
+        "price":  78550 , 
+        "type":  "graphicCardG"
+    },
+
+    {
+        "id": 59,
+        "name": "Placa de Video Zotac GeForce RTX 3070 Ti 8GB GDDR6X Trinity", 
+        "price":  170800, 
+        "type":  "graphicCardG"
+    },
+
+    {
+        "id": 60,
+        "name": "Placa de Video GALAX GeForce RTX 3080 12GB GDDR6X SG LHR", 
+        "price":  184900, 
+        "type":  "graphicCardG"
+    },
+
+    {
+        "id": 61,
+        "name": "Placa de Video Asrock RX 570 8GB GDDR5 Phantom Gaming Elite",
+        "price":  53050, 
+        "type":  "graphicCardA",
+        "title": "Placas de Video - Radeon AMD"
+    },
+
+    {
+        "id": 62,
+        "name": "Placa de Video XFX Radeon RX 6500 XT Black 4GB GDDR6 Speedster QICK210", 
+        "price":  53500, 
+        "type":  "graphicCardA"
+    },
+
+    {
+        "id": 63,
+        "name": "Placa de Video Asrock RX 580 8GB OC Phantom Gaming X OC", 
+        "price":  59000, 
+        "type":  "graphicCardA"
+    },
+
+    {
+        "id": 64,
+        "name": "Placa de Video Gigabyte Radeon RX 6600 8GB GDDR6 EAGLE", 
+        "price":  86500, 
+        "type":  "graphicCardA"
+    },
+
+  
+    {
+        "id": 65,
+        "name": "Placa de Video ASUS Radeon RX 6600 8GB GDDR6 DUAL", 
+        "price":  89900, 
+        "type":  "graphicCardA"
+    },
+
+    {
+        "id": 66,
+        "name": "Placa de Video XFX Radeon RX 6700 XT BLACK 12GB GDDR6 SPEEDSTER QICK 319",
+        "price":  111250, 
+        "type":  "graphicCardA"
+    },
+
+    {
+        "id": 67,
+        "name": "Fuente ASUS TUF 550B 80 Plus Bronze 550W", 
+        "price":  17150, 
+        "type":  "sPower",
+        "title": "Fuentes de Poder"
+    },
+
+    {
+        "id": 68,
+        "name": "Fuente Deepcool 600W DA600 80 Plus Bronze", 
+        "price":  10700, 
+        "type":  "sPower"
+    },
+
+    {
+        "id": 69,
+        "name": "Fuente ASUS ROG STRIX 750G 80 Plus Gold 750W Full Modular", 
+        "price":  35900, 
+        "type":  "sPower"
+    },
+
+    {
+        "id": 70,
+        "name": "Fuente Gigabyte 750W 80 Plus Gold Modular P-P750GM", 
+        "price":  22850, 
+        "type":  "sPower"
+    },
+
+    {
+        "id": 71,
+        "name": "Gabinete Kolink Inspire K6 ARGB Micro ATX", 
+        "price":  8150, 
+        "type":  "tower",
+        "title": "Gabinetes"
+    },
+
+    {
+        "id": 72,
+        "name": "Gabinete ASUS TUF GT501 Vidrio Templado White 3x120mm ARGB", 
+        "price":  42000, 
+        "type":  "tower"
+    },
+
+    {
+        "id": 73,
+        "name": "Gabinete Aerocool Bolt Black RGB Vidrio Templado", 
+        "price": 10450, 
+        "type": "tower"
+    }
+]

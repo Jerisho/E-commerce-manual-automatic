@@ -4,18 +4,55 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://kit.fontawesome.com/16f5893acb.js" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link href="https://fonts.googleapis.com/css2?family=MedievalSharp&family=Silkscreen:wght@700&family=Ubuntu:wght@300;400;500;700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="css/style.css">
-    <title>Document</title>
+    
+    <title>E-commerce</title>
+    <script src="js/miarchivo.js" type="module"></script>
 </head>
 <body>
-    <header>
-        <img src="" alt="">
-        <input type="search" placeholder="Buscar...">
-        <nav></nav>
-    </header>
-    <main id="main">
-    </main>
+    <div class="div-main">
+        <header class="header">
+            <div class="div-header div-nav"> 
+                <p class="logo"">E-commerce</p>   
+                <img src="" alt="">
+                <input type="search" placeholder="Buscar..." id="searchInput" class="navSearch">
+                <span class="validity"></span>
+                <nav class="nav-web">
+                    <ul>
+                        <button id="myAccount"><li><i class="fa-solid fa-user-ninja"></i> Mi cuenta</li></button>
+                        <div class="cart-container">
+                            <button id="btnCart" class="btn-Cart"><li><i class="fa-solid fa-cart-shopping"></i></li></button>
+                            <div id="divQuantity"></div>
+                        </div>
+                    </ul>
+                </nav>
+            </div>
+            <div class="div-header div-ul-h">
+                <div id="container-list">
+                <button id="listProducts"> PRODUCTOS</button>
+                </div>
+                <button id="btnAuto">ARMA TU PC</button>
+                <button id="btnManual">COTIZADOR</a>
+            </div>
+            <div id="div-products"></div>
+        </header>
+        <main id="container-totally" class="container-elements">
+            <div id="main"></div>
+        </main>
+        <footer class="footer margin-interno">
+            <nav class="pie">
+                <p>Desarrollado por Jerisho</p>
+                <a href="#"><i class="fa fa-facebook-square" aria-hidde="true"></i></a>
+                <a href="https://twitter.com/jerishoyt" target="_blank"><i class="fa fa-twitter-square"></i></a>
+                <a href="https://github.com/Jerisho/" target="_blank"><i class="bi bi-github"></i></a>
+            </nav>
+        </footer>
+    </div>
     <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-    <script src="js/miarchivo.js"></script>
 </body>
 </html>
