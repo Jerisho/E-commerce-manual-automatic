@@ -1,7 +1,8 @@
 
 import {mains, containterTotal, saveProduct, cart} from "../miarchivo.js"
 import { functionLocal,empty } from "../functionsRecycle.js"
-import { par } from "../functionPar.js"
+import { par } from "../functionPar.js";
+import { modPay } from "../ModsPay/modpay.js";
 //Funcion para mostrar el carrito//
 export const cartView = () =>{
     containterTotal.classList.add("mainCenter")

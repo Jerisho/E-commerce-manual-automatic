@@ -111,9 +111,9 @@ const payCredit = () => {
                         <h1 class="titleStandard">Ingrese como desea abonar el total</h1><br>
                             <form>
                                 <div class="containerInputs"><input type="radio" id="cuots1"name="cuots" value="1" checked><p> 1 Cuota de $${pricePar} - Mismo precio que en efectivo</p></input></div>
-                                <div class="containerInputs"><input type="radio" id="cuots3"name="cuots" value="3"><p> 3 Cuotas de $${(Math.round(pricePar + (pricePar * 0.05)) / 3)} - 5% de recargo</p></input></div>
+                                <div class="containerInputs"><input type="radio" id="cuots3"name="cuots" value="3"><p> 3 Cuotas de $${Math.round((pricePar + (pricePar * 0.05)) / 3)} - 5% de recargo</p></input></div>
                                 <div class="containerInputs"><input type="radio" id="cuots6"name="cuots" value="6"><p> 6 Cuotas de $${Math.round((pricePar + (pricePar * 0.15)) / 6)} con el 15% de recargo</p></input></div>
-                                <div class="containerInputs"><input type="radio" id="cuots12"name="cuots" value="12"><p> 12 cuotas de $${(Math.round((pricePar + (pricePar * 0.25)) / 12))} con el 25% de recargo</p></input></div>
+                                <div class="containerInputs"><input type="radio" id="cuots12"name="cuots" value="12"><p> 12 cuotas de $${Math.round((pricePar + (pricePar * 0.25)) / 12)} con el 25% de recargo</p></input></div>
                                 <div id="divAccCouts">
                                     <button id="accCouts">Aceptar</button>
                                 </div>
