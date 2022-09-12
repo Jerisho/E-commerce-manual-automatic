@@ -117,70 +117,80 @@
         "name": "Motherboard Asus Prime B460m-5", 
         "price":  13990, 
         "type":  "motherboard",
-        "title": "Placas Madre"
+        "title": "Placas Madre",
+        "img": "https://www.venex.com.ar/products_images/1630943318_descarga_(3).png"
     },
 
     {
         "id": 16,
         "name": "Motherboard Gigabyte AB350M V2.0 DS3H AM4", 
         "price":  19800, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/5917d63acfc896f7e7882dc94f08215c/Product/16801/png/1000"
     },
     
     {
         "id": 17,  
         "name": "Motherboard Asrock H310cm-hdv Intel 1151 Hdmi 8va Y 9na Gen Pcreg", 
         "price":  9999, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://media.solotodo.com/media/products/1032943_picture_1576719144.png"
     },
 
     {
         "id": 18,
         "name": "Mother Biostar A320MH AM4 D4", 
         "price":  7850, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://bucket.mlcdn.com/a/838/838859/images/a5c759cd155e849ae17b6dd436eb52efff42f031.png/317f4f42d0145236d69084f6af98030a6d113713.png"
     },
 
     {
         "id": 19,
         "name": "Mother ASUS PRO A320M-R WI-FI/CSM AM4 OEM", 
         "price":  12600, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://www.asus.com/media/global/gallery/BTgJEceeB7BGHZ3W_setting_xxx_0_90_end_2000.png"
     },
 
     {
         "id": 20,
         "name": "Mother ASUS PRIME A320M-K Ryzen 2da Gen Ready M-ATX", 
         "price":  12900, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://wowcomputers.com.ar/wp/wp-content/uploads/2020/11/Mother-ASUS-PRIME-A320M-K-Socket-AM4-1.png"
     },
 
     {
         "id": 21,
         "name": "Mother Gigabyte GA-A320M-H AM4", 
         "price":  14350,
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/ac5b85e1ac13c22601090176ecea0e8a/Product/26148/png/1000"
     },
 
     {
         "id": 22,
         "name": "Mother Biostar B550MH AM4 D4", 
         "price":  17500, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://salomontech.store/wp-content/uploads/biostar-b550m-motherboard-pr-1.png"
     },
 
     {
         "id": 23,
         "name": "Mother ASUS PRIME A520M-K AM4",
         "price":  19100, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://www.teknocome.com/wp-content/uploads/2021/03/P_setting_xxx_0_90_end_500-2.png"
     },
 
     {
         "id": 24,
         "name": "Mother ASUS ROG STRIX B550-F GAMING WI-FI AM4 PCI-E 4.0", 
         "price":  50600, 
-        "type":  "motherboard"
+        "type":  "motherboard",
+        "img": "https://rog.asus.com/websites/global/products/fdpqq6pwrv2dok9c/img/kv/pd.png"
     },
 
     {
@@ -189,7 +199,7 @@
         "price":  5864, 
         "type":  "RAM",
         "title": "RAMS",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg" 
+        "img": "https://i0.wp.com/clickarequito.com.ar/wp-content/uploads/2021/09/1.png?fit=497%2C502&ssl=1" 
     },
 
     {
@@ -197,7 +207,7 @@
         "name": "Memoria RAM Vengeance LPX gamer color negro 16GB 2 Corsair CMK16GX4M2B3200C16", 
         "price":  15366, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://www.corsair.com/medias/sys_master/images/images/h9e/h58/9301997420574/-CMK16GX4M2Z4000C18-Gallery-VENG-LPX-BLK-01.png"
     },
 
     {
@@ -205,7 +215,7 @@
         "name": "Memoria RAM Fury Beast DDR4 RGB gamer color negro 16GB 1 Kingston KF432C16BBA", 
         "price":  14999, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://i0.wp.com/clickarequito.com.ar/wp-content/uploads/2021/09/1.png?fit=497%2C502&ssl=1"
     },
 
     {
@@ -213,7 +223,7 @@
         "name": "Memoria GeiL DDR4 16GB 3000MHz Orion RGB Red", 
         "price":  12950, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://img.terabyteshop.com.br/produto/g/memoria-ddr4-geil-orion-rgb-edicao-amd-16gb-3000mhz-red-gaosr416gb3000c16asc_115362.png"
     },
 
     {
@@ -221,7 +231,7 @@
         "name": "Memoria Corsair DDR3 8GB 1600Mhz Vengeance LP", 
         "price":  8750, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://www.corsair.com/corsairmedia/sys_master/productcontent/CML8GX3M1A1600C10-VENGLP_B_01.png"
     },
 
     {
@@ -229,7 +239,7 @@
         "name": "Memoria GeiL DDR4 16GB (2x8GB) 3200MHz EVO X II RGB Black", 
         "price":  14850, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://img.terabyteshop.com.br/produto/p/memoria-ddr4-geil-evo-x-ii-rgb-16gb-2x8gb-3600mhz-gaexsy416gb3600c18bdc_84920.png"
     },
 
     {
@@ -237,7 +247,7 @@
         "name": "Memoria GeiL DDR4 16GB 3000MHz EVO POTENZA RED", 
         "price":  12600, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://megadrivestore.cl/1502-large_default/geil-evo-potenza-red-ddr4-8gb-3000mhz-pc4-24000-amd-inteledition-latencia-cl16-135v.jpg"
     },
 
     {
@@ -245,15 +255,15 @@
         "name": "Memoria Patriot Viper DDR4 8GB 3200MHz Steel RGB", 
         "price":  8050, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://avadirect.azureedge.net/Pictures/260/14012786_1.png"
     },
 
     {
         "id": 33,
-        "name": "Memoria Team DDR4 16GB 3600MHz T-Force Delta RGB Black CL18", 
+        "name": "T-Force Delta RGB TUF 16GB 2666MHz DDR4 (2x8GB) Team Group TF9D416G2666HC18HDC01", 
         "price":  15150, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://n1g.cl/Home/5645-large_default/t-force-delta-rgb-tuf-16gb-2x8gb-ddr4-3200mhz-team-group-tf9d416g3200hc16cdc01.jpg"
     },
 
     {
@@ -261,7 +271,7 @@
         "name": "Memoria Team DDR4 8GB 3600MHz T-Force Delta RGB Black CL18", 
         "price":  8350, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://n1g.cl/Home/3048-home_default/t-force-delta-rgb-tuf-16gb-2x8gb-ddr4-3200mhz-team-group-tf9d416g3200hc16cdc01.jpg"
     },
 
     {
@@ -269,7 +279,7 @@
         "name": "Memoria GeiL DDR4 16GB (2x8GB) 3200MHz Super Luce RGB TUF Edition", 
         "price":  15400, 
         "type":  "RAM",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://img.terabyteshop.com.br/produto/g/memoria-ddr4-geil-super-luce-rgb-tuf-gaming-alliance-16gb-2x8gb-3200mhz-glts416gb3200c16bdc_115448.png"
     },
 
     {
@@ -278,35 +288,39 @@
         "price":  8450, 
         "type":  "hardDisk",
         "title": "Discos Duros - HDD",
-        "img": "https://media.kingston.com/kingston/product/ktc-product-memory-beast-ddr4-single-1-sm.jpg"
+        "img": "https://distecbc.com/wp-content/uploads/2022/04/21fc5edcbf27de91283d5e543a6ee5f3-removebg-preview.png"
     },
 
     {
         "id": 37,
         "name": "Disco Rígido Seagate 1TB Barracuda 64MB SATA 6GB/s", 
         "price":  9950, 
-        "type":  "hardDisk"
+        "type":  "hardDisk",
+        "img": "https://www.seagate.com/files/www-content/support-content/internal-products/desktop%20hard/barracuda-3-5/barracuda-2tb-dm008-hero-left-270x270.png"
     },
 
     {
         "id": 38,
         "name": "Disco Rigido Seagate 2TB Skyhawk", 
         "price":  14150, 
-        "type":  "hardDisk"
+        "type":  "hardDisk",
+        "img": "https://www.mitiendavision.com/images/thumbs/0089737_disco-duro-sata3-2tb-seagate-skyhawk-5400-256mb-st2000vx015-surveillance_550.png"
     },
 
     {
         "id": 39,
         "name": "Disco Rígido Toshiba 4TB N300 NAS 7200rpm 128MB", 
         "price":  19700, 
-        "type":  "hardDisk"
+        "type":  "hardDisk",
+        "img": "https://sp-ao.shortpixel.ai/client/q_glossy,ret_img,w_500,h_500/https://www.rhaegon.com.ar//wp-content/uploads/2021/11/Toshiba_N300_4TB-500x500.png"
     },
 
     {
         "id": 40,
         "name": "Disco Rígido WD 6TB Blue Sata III", 
         "price":  54500, 
-        "type":  "hardDisk"
+        "type":  "hardDisk",
+        "img": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-blue-desktop-sata-hdd/gallery/wd-blue-pc-desktop-hard-drive-6tb.png.thumb.1280.1280.png"
     },
 
     {
@@ -314,97 +328,112 @@
         "name": "Disco Solido SSD HIKVISION C100 120GB 460MB/s", 
         "price":  3250, 
         "type":  "ssdDisk",
-        "title": "Discos Solidos - SSD"
+        "title": "Discos Solidos - SSD",
+        "img": "https://www.megabytes.cl/wp-content/uploads/2021/08/Hikvision-C100-Series-HS-SSD-C100120G-7.png"
     },
 
     {
         "id": 41,
         "name": "Disco Sólido SSD Adata 120GB SU650SS 520MB/s", 
         "price":  3650, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://mrpcmx.com/wp-content/uploads/2021/02/su650.png"
     },
 
     {
         "id": 42,
         "name": "Disco Sólido SSD Gigabyte 120GB 500MB/s", 
         "price":  3850 , 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://www.helpcompartes.com/10051-superlarge_default/4719331803704-ssd-gigabyte-120gb-257mm-sata-iii-6gbs-500380mbs-rw--gpgstf31120gntd.jpg"
     },
 
     {
         "id": 43,
         "name": "Disco Solido SSD HIKVISION C100 240GB 550MB/s", 
         "price":  5350, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://computecheg.com/wp-content/uploads/2022/05/image-removebg-preview-1-5.png"
     },
 
     {
         "id": 44,
         "name": "Disco Solido SSD Team 240GB T-Force Vulcan Z 540MB/s", 
         "price":  5600, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://www.teamgroupinc.com/es/products/upload/product_list_pic_s/e9d8bb4591cf702afa62c87368f3d4f0.png"
     },
 
     {
         "id": 45,
         "name": "Disco Sólido SSD Gigabyte 240GB 500MB/s", 
         "price":  5850, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://static.gigabyte.com/StaticFile/Image/Global/c2232cfc45b5d51f4124b33c1a134672/Product/19881/Png"
     },
 
     {
         "id": 46,
         "name": "Disco Sólido SSD WD 240GB GREEN 545MB/s", 
         "price":  5950, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://www.comeros.com.ar/wp-content/uploads/2022/05/wd-green-ssd-240gb-front.png.wdthumb.1280.1280.webp"
     },
 
     {
         "id": 47,
         "name": "Disco Solido SSD M.2 WD 240GB Green SN350 2400MB/s NVMe PCI-Express x4", 
         "price":  6300, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-green-sn350-nvme-ssd/gallery/new/wd-green-sn350-nvme-ssd-240gb-hero.png.thumb.1280.1280.png"
     },
 
     {
         "id": 48,
         "name": "Disco Sólido SSD M.2 ADATA XPG SX6000 Pro 256GB 2100MB/s NVMe PCI-E x4", 
         "price":  6350, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://gfx.productsup.io/img/site/510390/render/eyJzaXRlX2lkIjo1MTAzOTAsInRlbXBsYXRlX2lkIjoxMDYzNjk0LCJkYXRhIjp7ImltYWdlX2xpbmsiOiJodHRwczpcL1wvd3d3LndhbG1hcnQuY29tLm14XC9nbVwvM3BwXC9hc3JcLzBiMTJjODljLWEwMDUtNDk4Mi1iY2M3LTRhYzgwNzU1OTM0NS44YjEyZjI5MGIxMTk5MTgxYmNkYmFmNTk5MjAwOGIzNC5qcGVnP29kbkhlaWdodD0yMDAwJm9kbldpZHRoPTIwMDAmb2RuQmc9ZmZmZmZmIn19/1a2b9fc13d27aa55e3ef89a7ebf32b29.png"
     },
 
     {
         "id": 49,
         "name": "Disco Solido SSD Adata 480GB SU650 520MB/s", 
         "price":  8950, 
-        "type": "ssdDisk"},
+        "type": "ssdDisk",
+        "img": "https://www.qloud.ar/SITES/IMG/gaming-point-06-2021/221_24-12-2021-11-12-15-884191-mla26472668472_122017-f_ccexpress.png"
+    },
 
     {
         "id": 50,
         "name": "Disco Sólido SSD Kingston 480GB A400 500MB/s2", 
         "price":  9250 , 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/349/695/products/ssd-kingston_111-d17e8a6cfe33c6853b15868903410896-1024-1024.png"
     },
 
     {
         "id": 51,
         "name": "Disco Solido SSD M.2 WD 480GB Green SN350 2400MB/s NVME PCI-Expres x4", 
         "price":  10150 , 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://www.westerndigital.com/content/dam/store/en-us/assets/products/internal-storage/wd-green-sn350-nvme-ssd/gallery/new/wd-green-sn350-nvme-ssd-480gb-hero.png"
     },
 
     {
         "id": 52,
         "name": "Disco Sólido SSD Adata 960GB SU650 520MB/s", 
         "price":  17350, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://mvelectronica.s3.us-east-2.amazonaws.com/productos/HD-2395/60391f58b831b.webp"
     },
 
     {
         "id": 53,
         "name": "Disco Sólido SSD Kingston 960GB A400 500MB/s", 
         "price":  17700, 
-        "type":  "ssdDisk"
+        "type":  "ssdDisk",
+        "img": "https://nanotroniconline.com/wp-content/uploads/2020/08/disco-duro-ssd-kingston-a400-960gb-2.5-nanotronic.png"
     },
 
     {
@@ -412,49 +441,56 @@
         "name": "Placa De Vide MSI GeForce GT 710 1GB DDR3", 
         "price":  11999, 
         "type":  "graphicCardG",
-        "title": "Placas de Video - Geforce"
+        "title": "Placas de Video - Geforce",
+        "img": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/018/096/products/product_3_20180416144107_5ad44583983f61-dad7b78b7023d825be16125348799176-480-0.png"
     },
 
     {
         "id": 55,
         "name": "Placa de Video MSI GeForce GTX 1660 SUPER 6GB GDDR6 Ventus XS OC", 
         "price":  65200, 
-        "type":  "graphicCardG"
+        "type":  "graphicCardG",
+        "img": "https://gamerspit.com.ar/wp-content/uploads/2021/09/placa-de-video-msi-rtx2060-ventus-gp-edition-6g-450x450.png"
     },
 
     {
         "id": 56,
         "name": "Placa de Video Zotac GeForce GTX 1660 SUPER Twin Fan Black", 
         "price":  68450, 
-        "type":  "graphicCardG"
+        "type":  "graphicCardG",
+        "img": "https://www.neotek.pe/media/product_image/01_AMVxWMF.png"
     },
 
     {
         "id": 57,
         "name": "Placa de Video ASUS Geforce RTX 2060 DUAL EVO 12GB GDDR6 OC Edition", 
         "price":  77760, 
-        "type":  "graphicCardG"
+        "type":  "graphicCardG",
+        "img": "https://dlcdnwebimgs.asus.com/gain/64d616e6-406a-4f38-a4f3-4ecafa200ec8/"
     },
 
     {
         "id": 58,
         "name": "Placa de Video Zotac GeForce RTX 2060 12GB GDDR6 Twin Fan", 
         "price":  78550 , 
-        "type":  "graphicCardG"
+        "type":  "graphicCardG",
+        "img": "https://cdn.shopify.com/s/files/1/0527/1620/8326/products/ZZ1.png?v=1647459890"
     },
 
     {
         "id": 59,
         "name": "Placa de Video Zotac GeForce RTX 3070 Ti 8GB GDDR6X Trinity", 
         "price":  170800, 
-        "type":  "graphicCardG"
+        "type":  "graphicCardG",
+        "img": "https://static2-ecemea.acer.com/media/catalog/product/cache/66b1ced31ce4fdfef29e49f4cbfb354a/_/z/_zt-a30700e-10p_-standard-image_box_product_zt-a30700e-10plhr.png"
     },
 
     {
         "id": 60,
         "name": "Placa de Video GALAX GeForce RTX 3080 12GB GDDR6X SG LHR", 
         "price":  184900, 
-        "type":  "graphicCardG"
+        "type":  "graphicCardG",
+        "img": "https://i0.wp.com/noxiestore.com/wp-content/uploads/2022/08/3060_gx_box_p_oc_600_1-1.webp?fit=500%2C500&ssl=1"
     },
 
     {
@@ -462,28 +498,32 @@
         "name": "Placa de Video Asrock RX 570 8GB GDDR5 Phantom Gaming Elite",
         "price":  53050, 
         "type":  "graphicCardA",
-        "title": "Placas de Video - Radeon AMD"
+        "title": "Placas de Video - Radeon AMD",
+        "img": "https://www.asrock.com/Graphics-Card/photo/Radeon%20RX%20570%20Phantom%20Gaming%20Elite%208G(M1).png"
     },
 
     {
         "id": 62,
         "name": "Placa de Video XFX Radeon RX 6500 XT Black 4GB GDDR6 Speedster QICK210", 
         "price":  53500, 
-        "type":  "graphicCardA"
+        "type":  "graphicCardA",
+        "img": "https://notebookspec.com/storage/pc-vga/vga_1587_20220228-181012_1.png"
     },
 
     {
         "id": 63,
         "name": "Placa de Video Asrock RX 580 8GB OC Phantom Gaming X OC", 
         "price":  59000, 
-        "type":  "graphicCardA"
+        "type":  "graphicCardA",
+        "img": "https://www.asrock.com/Graphics-Card/photo/Phantom%20Gaming%20X%20Radeon%20RX580%208G%20OC(M1).png"
     },
 
     {
         "id": 64,
         "name": "Placa de Video Gigabyte Radeon RX 6600 8GB GDDR6 EAGLE", 
         "price":  86500, 
-        "type":  "graphicCardA"
+        "type":  "graphicCardA",
+        "img": "https://lezamapc.com.ar/35043-thickbox_default/placa-de-video-gigabyte-8gb-rx-6600-eagle-8gd.jpg"
     },
 
   
@@ -491,14 +531,16 @@
         "id": 65,
         "name": "Placa de Video ASUS Radeon RX 6600 8GB GDDR6 DUAL", 
         "price":  89900, 
-        "type":  "graphicCardA"
+        "type":  "graphicCardA",
+        "img": "https://dlcdnwebimgs.asus.com/gain/27f168ec-c357-40d0-8c40-06b99da33026/"
     },
 
     {
         "id": 66,
         "name": "Placa de Video XFX Radeon RX 6700 XT BLACK 12GB GDDR6 SPEEDSTER QICK 319",
         "price":  111250, 
-        "type":  "graphicCardA"
+        "type":  "graphicCardA",
+        "img": "https://aerocargoexpress.com/wp-content/uploads/2021/12/Placa-de-Video-XFX-Radeon-RX-6700-XT-BLACK-12GB-GDDR6-SPEEDSTER-QICK-319-600x600.png"
     },
 
     {
@@ -506,28 +548,32 @@
         "name": "Fuente ASUS TUF 550B 80 Plus Bronze 550W", 
         "price":  17150, 
         "type":  "sPower",
-        "title": "Fuentes de Poder"
+        "title": "Fuentes de Poder",
+        "img": "https://cdn.shopify.com/s/files/1/0474/7051/0229/products/TUFGaming550B1_1024x1024@2x.png?v=1630889894"
     },
 
     {
         "id": 68,
         "name": "Fuente Deepcool 600W DA600 80 Plus Bronze", 
         "price":  10700, 
-        "type":  "sPower"
+        "type":  "sPower",
+        "img": "https://cdn.deepcool.com/public/ProductGallery/DEEPCOOL/PowerSupplyUnits/DA600_M_Model_No_DA600/Design/CN/03_02.png?fm=webp&q=60"
     },
 
     {
         "id": 69,
         "name": "Fuente ASUS ROG STRIX 750G 80 Plus Gold 750W Full Modular", 
         "price":  35900, 
-        "type":  "sPower"
+        "type":  "sPower",
+        "img": "https://n1g.cl/Home/7029-home_default/asus-rog-strix-1000g-1000w-80-plus-gold-modular.jpg"
     },
 
     {
         "id": 70,
         "name": "Fuente Gigabyte 750W 80 Plus Gold Modular P-P750GM", 
         "price":  22850, 
-        "type":  "sPower"
+        "type":  "sPower",
+        "img": "https://www.venex.com.ar/products_images/1617129999_1000.png"
     },
 
     {
@@ -535,20 +581,23 @@
         "name": "Gabinete Kolink Inspire K6 ARGB Micro ATX", 
         "price":  8150, 
         "type":  "tower",
-        "title": "Gabinetes"
+        "title": "Gabinetes",
+        "img": "https://kolink.se/____impro/1/onewebmedia/Cases/Inspire%20K6/GEKL_061_01.png?etag=%224c555-5f293d6e%22&sourceContentType=image%2Fpng&ignoreAspectRatio&resize=236,236"
     },
 
     {
         "id": 72,
         "name": "Gabinete ASUS TUF GT501 Vidrio Templado White 3x120mm ARGB", 
         "price":  42000, 
-        "type":  "tower"
+        "type":  "tower",
+        "img": "https://www.asus.com/media/global/gallery/6lh7bquezk2l54b4_setting_xxx_0_90_end_800.png"
     },
 
     {
         "id": 73,
         "name": "Gabinete Aerocool Bolt Black RGB Vidrio Templado", 
         "price": 10450, 
-        "type": "tower"
+        "type": "tower",
+        "img": "https://tryhardware.com.ar/wp-content/uploads/2021/05/AeroCool-Cylon-Product-Gallery-300x300.png"
     }
 ]
