@@ -2,6 +2,7 @@
 import { mains, saveProduct, cart } from "../miarchivo.js";
 import { empty } from "../functionsRecycle.js";
 import { quantityCart } from "../CartFunctions/functionCart.js";
+import { alertInput } from "../functionsRecycle.js";
 
 export const payConfirm = () => {
     mains.innerHTML = `<div id="containerConfirmPay">
