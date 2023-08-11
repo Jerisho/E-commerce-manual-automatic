@@ -1,7 +1,3 @@
-Proyecto Final CODERHOUSE.
-
-Hago entrega del proyecto final, en el cual se crea un ecommerce en el cual:
-
 -Para poder inicializar tu compra primero vas a tener que iniciar sesión.
 
 -Para poder iniciar sesión deberás crear un usuario el cual se almacenara en el LocalStorage
